@@ -1,0 +1,5 @@
+-- Enable pgvector for embedding similarity search
+create extension if not exists vector;
+
+-- Enable UUID generation
+create extension if not exists "uuid-ossp";
