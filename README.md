@@ -43,7 +43,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/naijapulse.git
+git clone https://github.com/cruiselord/naijapulse.git
 cd naijapulse
 
 # Install dependencies
